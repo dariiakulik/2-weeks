@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-search</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Specs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00.-UI-Kit" transform="translate(-500.000000, -700.000000)" fill="#252525" fill-rule="nonzero">
+            <g id="icon-search" transform="translate(500.000000, 700.000000)">
+                <path d="M9,0 C13.9705627,0 18,4.02943725 18,9 C18,10.868312 17.4307119,12.6036597 16.4561391,14.0420396 L19.7071068,17.2928932 L18.2928932,18.7071068 L15.1535411,15.5676834 C13.5441208,17.0762271 11.3799398,18 9,18 C4.02943725,18 0,13.9705627 0,9 C0,4.02943725 4.02943725,0 9,0 Z M9,2 C5.13400675,2 2,5.13400675 2,9 C2,12.8659932 5.13400675,16 9,16 C12.8659932,16 16,12.8659932 16,9 C16,5.13400675 12.8659932,2 9,2 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
